@@ -4,6 +4,8 @@
 
 🌐 **Site oficial:** [moneymio.com.br](https://moneymio.com.br)
 
+📱 **Baixe agora:** [App Store](https://apps.apple.com/br/app/moneymio-finan%C3%A7as-com-ia/id6480003303) · [Google Play](https://play.google.com/store/apps/details?id=com.moneymioapp)
+
 ## O problema
 
 Apps de finanças pessoais exigem disciplina: abrir o app, preencher formulário, categorizar. A maioria das pessoas desiste na primeira semana e volta a não saber para onde o dinheiro vai.
@@ -17,6 +19,8 @@ O MoneyMio vive onde você já está: o **WhatsApp**. Basta mandar "gastei 50 no
 - **Registro por conversa**: texto natural no WhatsApp, sem formulário
 - **Categorização automática** com IA
 - **Relatórios detalhados** no app
+- **Categorias personalizadas**: organize do seu jeito
+- **Publicado nas lojas**: iOS e Android
 - **Zero fricção**: nada de app novo pra criar hábito, o hábito já existe, é o WhatsApp
 
 ## Meu papel
