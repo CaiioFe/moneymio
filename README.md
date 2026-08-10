@@ -35,7 +35,9 @@ O MoneyMio vive onde você já está: o **WhatsApp**. Basta mandar "gastei 50 no
 
 ## Meu papel
 
-Sou **co-fundador** do MoneyMio: produto, tecnologia e estratégia. É a minha startup e o projeto mais importante do meu portfólio.
+Sou **co-fundador** do MoneyMio: é a minha startup e o projeto mais importante do meu portfólio. Desenhei o protótipo e a jornada completa do produto, e estruturei a estratégia de aquisição de clientes, os funis de venda e toda a parte de infoprodutos. Também auxiliei as equipes de marketing que trabalharam com a gente.
+
+Levei o produto pra fora da tela também: conversei com investidores, fiz pitch, inscrevi o MoneyMio no Shark Tank e apresentei em eventos como o New Journey Hack.
 
 ## Stack
 
