@@ -4,7 +4,17 @@
 
 🌐 **Site oficial:** [moneymio.com.br](https://moneymio.com.br)
 
-📱 **Baixe agora:** [App Store](https://apps.apple.com/br/app/moneymio-finan%C3%A7as-com-ia/id6480003303) · [Google Play](https://play.google.com/store/apps/details?id=com.moneymioapp)
+📱 Disponível na App Store e no Google Play.
+
+## Telas do app
+
+<p>
+  <img src="moneymio-hero.png" alt="MoneyMio, tela de detalhes de transação" width="640" />
+</p>
+<p>
+  <img src="moneymio-whatsapp.png" alt="Registro de gasto direto no WhatsApp" width="260" />
+  <img src="moneymio-relatorios.png" alt="Relatórios do MoneyMio" width="260" />
+</p>
 
 ## O problema
 
